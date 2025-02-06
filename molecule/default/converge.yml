@@ -8,4 +8,4 @@
   tasks:
     - name: Include opencast_repository
       ansible.builtin.include_role:
-        name: opencast_repository
+        name: elan.opencast_repository

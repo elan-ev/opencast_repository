@@ -1,6 +1,7 @@
 Ansible: Opencast Repository Role
 =================================
 
+![lint](https://github.com/elan-ev/opencast_repository/actions/workflows/lint.yml/badge.svg)
 ![molecule](https://github.com/elan-ev/opencast_repository/actions/workflows/molecule.yml/badge.svg)
 
 This Ansible role enables the package repository for RHEL, CentOS, Debian or Ubuntu.
