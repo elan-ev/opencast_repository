@@ -3,7 +3,7 @@
   ansible.builtin.apt:
     name:
       - ca-certificates
-      - gnupg2
+      - gpgv
     cache_valid_time: 3600
 
 - name: Create directory for keyrings used by apt
